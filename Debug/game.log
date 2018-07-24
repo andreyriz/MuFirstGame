@@ -1,0 +1,14 @@
+﻿  StandartAlienEN.cpp
+e:\space invaders\game\standartalienen.cpp(75): warning C4305: аргумент: усечение из "double" в "float"
+e:\space invaders\game\standartalienen.cpp(75): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\space invaders\game\standartalienen.cpp(88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  main.cpp
+e:\space invaders\game\main.cpp(22): warning C4305: аргумент: усечение из "double" в "float"
+e:\space invaders\game\main.cpp(87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\space invaders\game\main.cpp(99): warning C4305: аргумент: усечение из "double" в "float"
+e:\space invaders\game\main.cpp(99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+e:\space invaders\game\main.cpp(130): warning C4244: аргумент: преобразование "sf::Int64" в "float", возможна потеря данных
+e:\space invaders\game\main.cpp(198): warning C4244: аргумент: преобразование "sf::Int64" в "float", возможна потеря данных
+e:\space invaders\game\main.cpp(205): warning C4244: аргумент: преобразование "sf::Int64" в "const float", возможна потеря данных
+  Создание кода...
+  game.vcxproj -> E:\space invaders\game\x64\Debug\game.exe
